@@ -19,7 +19,6 @@
   "// comment1": "'dtrace-provider' required for dtrace features",
   "// comment2": "'mv' required for RotatingFileStream",
   "optionalDependencies": {
-    "mv": "~2",
     "safe-json-stringify": "~1"
   },
   "devDependencies": {
